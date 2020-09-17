@@ -1,2 +1,4 @@
 # Edge-Detection---Image-Processing
 Edge detection methods for finding object boundaries in images Edge detection is an image processing technique for finding the boundaries of objects within images. It works by detecting discontinuities in brightness. Edge detection is used for image segmentation and data extraction in areas such as image processing, computer vision, and machine vision.  Common edge detection algorithms include Sobel, Canny, Prewitt, Roberts, and fuzzy logic methods.
+
+The points at which image brightness changes sharply are typically organized into a set of curved line segments termed edges. The same problem of finding discontinuities in one-dimensional signals is known as step detection and the problem of finding signal discontinuities over time is known as change detection. Edge detection is a fundamental tool in image processing, machine vision and computer vision, particularly in the areas of feature detection and feature extraction.
